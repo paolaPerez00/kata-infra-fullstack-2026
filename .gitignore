@@ -1,0 +1,5 @@
+.env
+.DS_Store
+build.log
+kata-back-fullstack-2026/
+kata-front-fullstack-2026/
